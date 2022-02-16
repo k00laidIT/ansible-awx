@@ -23,7 +23,7 @@ Websoft9 published [AWX image](https://apps.websoft9.com/awx) on Cloud Platform,
 
 **Deploy by Script** means running a script on your cloud instance to pull the pre-packages online to your instance and configure it at the same time.
 
-Websoft9 provide the [AWX ansbile automation script](https://github.com/Websoft9/ansible-awx) on Github. If you are familiar with Ansible, you can deploy the AWX to the instance automaticly.
+Websoft9 provide the [AWX ansbile automation script](https://github.com/Websoft9/ansible-awx) on Github. If you are familiar with Ansible, you can deploy the AWX to the instance automatically.
 
 ## Comparison
 
